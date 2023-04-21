@@ -28,6 +28,7 @@ a {
 .navbar-container {
   display: flex;
   justify-content: space-between;
+
   margin: 6px 18px;
   position: relative;
 }
@@ -70,6 +71,11 @@ span.text-red {
 .logo {
   color: gray;
   font-size: 18px;
+}
+
+.logo img {
+  width: 120px !important;
+  height: 56px !important;
 }
 .cart-icon {
   font-size: 25px;
